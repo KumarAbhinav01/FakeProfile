@@ -1,5 +1,3 @@
-<!-- Developed by Kumaraguru.T (github/hackyguru) - Please don't steal credits -->
-
 <template>
   <div id="app">
     <div class="header" :style="{backgroundImage: `url('${headerImage}')`}"></div>
