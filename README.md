@@ -1,5 +1,5 @@
 # Fake Profile Generator
-This web app is designed using Vue. This web app generates fake profile of a person by using Faker library.
+This Web app is designed using Vue. This web app generates fake profile of a person by using Faker library.
 
 ## Disclaimer
 All data is imported from a JS Library called 'Faker'. Any resemblance with original person is accidental.
